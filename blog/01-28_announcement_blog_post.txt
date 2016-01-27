@@ -1,0 +1,46 @@
+The 2016 World Wide Haxe Conference is officially launched, time to start
+getting ready for it!
+
+The WWX is the annual meet-up for the developers of the Haxe community,
+during this event you will have the opportunity to discover the latest
+Haxe's innovations and strategy. This event provides you with an unmatched
+platform to meet, network and share knowledge on Haxe. 
+
+We hope to see you in Paris at Mozilla's from May 26 to May 30.
+Same place as last year, so if you weren't there and you're curious you can
+take a peek on the numerous photos of WWW2015:
+https://www.flickr.com/photos/120854033@N02/sets/72157655026419535
+https://www.flickr.com/photos/120854033@N02/sets/72157655029592122
+https://www.flickr.com/photos/120854033@N02/sets/72157654643151058
+https://www.flickr.com/photos/120854033@N02/sets/72157652719370394
+
+Continuing on the spirit of not changing what's not broken we'll also do
+a crowd-funding campaign this year, which should launch by the end of February,
+giving you the opportunity to register.
+Although it's not the exact same, we've simplified the rewards ;)
+We'll give you more details soon and we'll be counting on you to help us
+spread the word about it!
+
+In the meantime we are already looking for speakers to do talks, lightning
+talks or workshops. If you're interested in doing one submit your idea by
+opening an issue on https://github.com/silexlabs/wwx2016.
+If you have an idea that you would like to listen to/participate feel
+free to open an issue too.
+
+This Github repository is the one place where the entire organization
+is centralized in a free and open source manner. In it you'll be able to
+find every communication materials, every decisions and every tasks
+discussed publicly.
+Feel free to improve them or contribute new ones, create press releases
+and helping us getting things done!
+It's important for us that you feel free to improve WWX. That's why if an
+idea has a great number of supporters and is realizable (in time and budget),
+we'll do everything to make it happen in total transparency.
+
+If you wish to sponsor this great event contact us at contact@silexlabs.org.
+
+This is already the 6th WWX, let's make it the best WWX yet,
+hope to see you soon in Paris!
+
+Best,
+The Thaxe Force Team
