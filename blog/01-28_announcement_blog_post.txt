@@ -6,7 +6,7 @@ during this event you will have the opportunity to discover the latest
 Haxe's innovations and strategy. This event provides you with an unmatched
 platform to meet, network and share knowledge on Haxe. 
 
-We hope to see you in Paris at Mozilla's from May 26 to May 30.
+We hope to see you in Paris at Mozilla's from May 27 to May 30.
 Same place as last year, so if you weren't there and you're curious you can
 take a peek on the numerous photos of WWW2015:
 https://www.flickr.com/photos/120854033@N02/sets/72157655026419535
