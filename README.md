@@ -13,7 +13,7 @@ Don't wait anymore, help WWX2016 kicks WWX2015's ass!
 
 ## Talks, Workshops, Hackathons
 
-If you have a talk (~40min), a lightning talk (~15min), a workshop (several hours) or a hackathon that you would like to make/listen to/participate, feel free to submit a proposal through the issue tracker. Please do check the [existing proposals](https://github.com/silexlabs/wwx2016/labels/session) beforehand.
+If you have a talk (~40min), a lightning talk (~15min), a workshop (several hours) or a hackathon that you would like to make/listen to/participate, feel free to submit a proposal through the issue tracker. Please do check the [existing proposals](https://github.com/silexlabs/wwx2016/issues?utf8=%E2%9C%93&q=label%3Asession+) beforehand.
 
 ## Licensing
 
